@@ -20,5 +20,5 @@ if __name__ =='__main__':
     b = Lecturer()
 
 
-    print("Thanks for using my application")
+    print("\nThanks for using my application")
 
